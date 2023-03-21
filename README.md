@@ -2,10 +2,10 @@
 This repo contains submission for Solidity Skills Challenge conducted by Metacrafters Talent Collective.
 
 ## Video Tutorial
-
+https://github.com/ramvittalkumar/metacrafters/tree/main/video
 
 ## Code
-
+https://github.com/ramvittalkumar/metacrafters/tree/main/code
 
 ###### Technologies
 
